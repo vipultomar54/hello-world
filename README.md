@@ -1,2 +1,4 @@
 # hello-world
-just getting started
+commiting to something 
+next step of evolution
+
